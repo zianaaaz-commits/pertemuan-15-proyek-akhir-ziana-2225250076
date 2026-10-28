@@ -1,0 +1,5 @@
+A001,Ayu,85
+A002,Budi,70
+A003,Citra,90
+A004,Deni,60
+A005,Eka,55
